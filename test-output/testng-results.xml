@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SampleSuite" duration-ms="15989" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:08:14 IST">
+    <groups>
+    </groups>
+    <test name="SampleTest" duration-ms="15989" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:08:14 IST">
+      <class name="com.testngpractice.FirsttestNg">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="browser" is-config="true" duration-ms="12" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="url()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="url" is-config="true" duration-ms="0" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="operatingsystem()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="operatingsystem" is-config="true" duration-ms="0" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operatingsystem -->
+        <test-method status="PASS" signature="framework()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="framework" duration-ms="4" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- framework -->
+        <test-method status="PASS" signature="operatingsystem1()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="operatingsystem1" is-config="true" duration-ms="0" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operatingsystem1 -->
+        <test-method status="PASS" signature="operatingsystem()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="operatingsystem" is-config="true" duration-ms="0" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operatingsystem -->
+        <test-method status="PASS" signature="framework1()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="framework1" duration-ms="4" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- framework1 -->
+        <test-method status="PASS" signature="operatingsystem1()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="operatingsystem1" is-config="true" duration-ms="4" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operatingsystem1 -->
+        <test-method status="PASS" signature="url1()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="url1" is-config="true" duration-ms="0" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url1 -->
+        <test-method status="PASS" signature="browser1()[pri:0, instance:com.testngpractice.FirsttestNg@5fdba6f9]" name="browser1" is-config="true" duration-ms="5" started-at="2020-12-25T13:08:14 IST" finished-at="2020-12-25T13:08:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser1 -->
+      </class> <!-- com.testngpractice.FirsttestNg -->
+      <class name="com.testngpractice.SecondtestNG">
+        <test-method status="PASS" signature="open()[pri:0, instance:com.testngpractice.SecondtestNG@10d59286]" name="open" is-config="true" duration-ms="4" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.testngpractice.SecondtestNG@10d59286]" name="sum" duration-ms="1" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testngpractice.SecondtestNG@10d59286]" name="close" is-config="true" duration-ms="0" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:07:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testngpractice.SecondtestNG -->
+      <class name="com.testngpractice.Homepagetest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.testngpractice.Homepagetest@fe18270]" name="openbrowser" is-config="true" duration-ms="6436" started-at="2020-12-25T13:07:58 IST" finished-at="2020-12-25T13:08:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="enterurl()[pri:0, instance:com.testngpractice.Homepagetest@fe18270]" name="enterurl" is-config="true" duration-ms="3167" started-at="2020-12-25T13:08:05 IST" finished-at="2020-12-25T13:08:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterurl -->
+        <test-method status="PASS" signature="titletest()[pri:1, instance:com.testngpractice.Homepagetest@fe18270]" name="titletest" duration-ms="11" started-at="2020-12-25T13:08:08 IST" finished-at="2020-12-25T13:08:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titletest -->
+        <test-method status="PASS" signature="enterurl1()[pri:0, instance:com.testngpractice.Homepagetest@fe18270]" name="enterurl1" is-config="true" duration-ms="0" started-at="2020-12-25T13:08:08 IST" finished-at="2020-12-25T13:08:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterurl1 -->
+        <test-method status="PASS" signature="enterurl()[pri:0, instance:com.testngpractice.Homepagetest@fe18270]" name="enterurl" is-config="true" duration-ms="1017" started-at="2020-12-25T13:08:08 IST" finished-at="2020-12-25T13:08:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterurl -->
+        <test-method status="PASS" signature="logotest()[pri:2, instance:com.testngpractice.Homepagetest@fe18270]" name="logotest" duration-ms="50" started-at="2020-12-25T13:08:09 IST" depends-on-methods="com.testngpractice.Homepagetest.titletest" finished-at="2020-12-25T13:08:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logotest -->
+        <test-method status="PASS" signature="enterurl1()[pri:0, instance:com.testngpractice.Homepagetest@fe18270]" name="enterurl1" is-config="true" duration-ms="4" started-at="2020-12-25T13:08:09 IST" finished-at="2020-12-25T13:08:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterurl1 -->
+        <test-method status="PASS" signature="enterurl()[pri:0, instance:com.testngpractice.Homepagetest@fe18270]" name="enterurl" is-config="true" duration-ms="713" started-at="2020-12-25T13:08:09 IST" finished-at="2020-12-25T13:08:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterurl -->
+        <test-method status="PASS" signature="texttest()[pri:3, instance:com.testngpractice.Homepagetest@fe18270]" name="texttest" duration-ms="47" started-at="2020-12-25T13:08:10 IST" depends-on-methods="com.testngpractice.Homepagetest.titletest" finished-at="2020-12-25T13:08:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- texttest -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.testngpractice.Homepagetest@fe18270]" name="closebrowser" is-config="true" duration-ms="4461" started-at="2020-12-25T13:08:10 IST" finished-at="2020-12-25T13:08:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="enterurl1()[pri:0, instance:com.testngpractice.Homepagetest@fe18270]" name="enterurl1" is-config="true" duration-ms="0" started-at="2020-12-25T13:08:10 IST" finished-at="2020-12-25T13:08:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterurl1 -->
+      </class> <!-- com.testngpractice.Homepagetest -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- SampleSuite -->
+</testng-results>
